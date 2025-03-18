@@ -1,0 +1,32 @@
+[
+    {
+        "id": "67cc6b838eae519f47869d08",
+        "habitId": "67c80214e1f2d101883cfdcf",
+        "checkinStamp": 20250308,
+        "checkinTime": "2025-03-08T16:08:35.000+0000",
+        "opTime": "2025-03-08T16:08:35.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67d0044ed5b1510f10fd7350",
+        "habitId": "67c80214e1f2d101883cfdcf",
+        "checkinStamp": 20250311,
+        "checkinTime": "2025-03-11T09:37:18.062+0000",
+        "opTime": "2025-03-11T09:37:18.062+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67cb0b2b00cb1197d2a20b61",
+        "habitId": "67c80214e1f2d101883cfdcf",
+        "checkinStamp": 20250307,
+        "checkinTime": "2025-03-07T15:05:15.000+0000",
+        "opTime": "2025-03-07T15:05:15.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    }
+]
