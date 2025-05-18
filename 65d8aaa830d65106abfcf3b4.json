@@ -138,10 +138,11 @@
         "id": "68293f28bc01911e4eafecf1",
         "habitId": "65d8aaa830d65106abfcf3b4",
         "checkinStamp": 20250518,
-        "opTime": "2025-05-18T07:00:15.000+0000",
-        "value": 2.0,
+        "checkinTime": "2025-05-18T10:00:04.000+0000",
+        "opTime": "2025-05-18T10:00:04.000+0000",
+        "value": 3.0,
         "goal": 3.0,
-        "status": 0
+        "status": 2
     },
     {
         "id": "679ca4fd426ed15b2a48aa91",
