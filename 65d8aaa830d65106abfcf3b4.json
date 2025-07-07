@@ -568,10 +568,11 @@
         "id": "686b56975a549117df98da72",
         "habitId": "65d8aaa830d65106abfcf3b4",
         "checkinStamp": 20250707,
-        "opTime": "2025-07-07T07:00:08.000+0000",
-        "value": 2.0,
+        "checkinTime": "2025-07-07T10:00:08.000+0000",
+        "opTime": "2025-07-07T10:00:08.000+0000",
+        "value": 3.0,
         "goal": 3.0,
-        "status": 0
+        "status": 2
     },
     {
         "id": "67dfb1bbf1785101d6208de0",
