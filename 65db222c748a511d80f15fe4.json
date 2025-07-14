@@ -1,20 +1,70 @@
 [
     {
-        "id": "67cc6b7d3456119f47869bde",
-        "habitId": "65db222c748a511d80f15fe4",
-        "checkinStamp": 20250308,
-        "checkinTime": "2025-03-08T16:08:29.000+0000",
-        "opTime": "2025-03-08T16:08:29.000+0000",
-        "value": 1.0,
-        "goal": 1.0,
-        "status": 2
-    },
-    {
         "id": "680530880e9f1114b0e0b48e",
         "habitId": "65db222c748a511d80f15fe4",
         "checkinStamp": 20250420,
         "checkinTime": "2025-04-20T17:36:08.000+0000",
         "opTime": "2025-04-20T17:36:08.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67795c17c01d1121db52ac97",
+        "habitId": "65db222c748a511d80f15fe4",
+        "checkinStamp": 20250103,
+        "checkinTime": "2025-01-04T16:04:39.543+0000",
+        "opTime": "2025-01-04T16:04:39.543+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67c2ecf5dffa91206146fae9",
+        "habitId": "65db222c748a511d80f15fe4",
+        "checkinStamp": 20250301,
+        "checkinTime": "2025-03-01T11:18:13.000+0000",
+        "opTime": "2025-03-01T11:18:13.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67795c20c72f9121db52ae02",
+        "habitId": "65db222c748a511d80f15fe4",
+        "checkinStamp": 20250104,
+        "checkinTime": "2025-01-04T16:04:48.620+0000",
+        "opTime": "2025-01-04T16:04:48.620+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67ec0930c16cd101059d8ed1",
+        "habitId": "65db222c748a511d80f15fe4",
+        "checkinStamp": 20250331,
+        "checkinTime": "2025-04-01T15:41:36.000+0000",
+        "opTime": "2025-04-01T15:41:36.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "687514f7f21991e250a1c631",
+        "habitId": "65db222c748a511d80f15fe4",
+        "checkinStamp": 20250714,
+        "checkinTime": "2025-07-14T14:32:23.000+0000",
+        "opTime": "2025-07-14T14:32:23.000+0000",
+        "value": 1.0,
+        "goal": 1.0,
+        "status": 2
+    },
+    {
+        "id": "67cc6b7d3456119f47869bde",
+        "habitId": "65db222c748a511d80f15fe4",
+        "checkinStamp": 20250308,
+        "checkinTime": "2025-03-08T16:08:29.000+0000",
+        "opTime": "2025-03-08T16:08:29.000+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
@@ -40,16 +90,6 @@
         "status": 2
     },
     {
-        "id": "67795c17c01d1121db52ac97",
-        "habitId": "65db222c748a511d80f15fe4",
-        "checkinStamp": 20250103,
-        "checkinTime": "2025-01-04T16:04:39.543+0000",
-        "opTime": "2025-01-04T16:04:39.543+0000",
-        "value": 1.0,
-        "goal": 1.0,
-        "status": 2
-    },
-    {
         "id": "67d0044fd42e110f10fd73d2",
         "habitId": "65db222c748a511d80f15fe4",
         "checkinStamp": 20250311,
@@ -70,16 +110,6 @@
         "status": 2
     },
     {
-        "id": "67c2ecf5dffa91206146fae9",
-        "habitId": "65db222c748a511d80f15fe4",
-        "checkinStamp": 20250301,
-        "checkinTime": "2025-03-01T11:18:13.000+0000",
-        "opTime": "2025-03-01T11:18:13.000+0000",
-        "value": 1.0,
-        "goal": 1.0,
-        "status": 2
-    },
-    {
         "id": "679751bcf7121114fe6eb8a8",
         "habitId": "65db222c748a511d80f15fe4",
         "checkinStamp": 20250126,
@@ -90,31 +120,11 @@
         "status": 2
     },
     {
-        "id": "67795c20c72f9121db52ae02",
-        "habitId": "65db222c748a511d80f15fe4",
-        "checkinStamp": 20250104,
-        "checkinTime": "2025-01-04T16:04:48.620+0000",
-        "opTime": "2025-01-04T16:04:48.620+0000",
-        "value": 1.0,
-        "goal": 1.0,
-        "status": 2
-    },
-    {
         "id": "67d3a1c773135100c4209741",
         "habitId": "65db222c748a511d80f15fe4",
         "checkinStamp": 20250313,
         "checkinTime": "2025-03-14T03:25:59.000+0000",
         "opTime": "2025-03-14T03:25:59.000+0000",
-        "value": 1.0,
-        "goal": 1.0,
-        "status": 2
-    },
-    {
-        "id": "67ec0930c16cd101059d8ed1",
-        "habitId": "65db222c748a511d80f15fe4",
-        "checkinStamp": 20250331,
-        "checkinTime": "2025-04-01T15:41:36.000+0000",
-        "opTime": "2025-04-01T15:41:36.000+0000",
         "value": 1.0,
         "goal": 1.0,
         "status": 2
