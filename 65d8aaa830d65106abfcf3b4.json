@@ -564,6 +564,15 @@
         "status": 0
     },
     {
+        "id": "689bf2b1a065517da21b5592",
+        "habitId": "65d8aaa830d65106abfcf3b4",
+        "checkinStamp": 20250813,
+        "opTime": "2025-08-13T02:04:33.000+0000",
+        "value": 1.0,
+        "goal": 3.0,
+        "status": 0
+    },
+    {
         "id": "689ae9a329e19169e4437f24",
         "habitId": "65d8aaa830d65106abfcf3b4",
         "checkinStamp": 20250812,
