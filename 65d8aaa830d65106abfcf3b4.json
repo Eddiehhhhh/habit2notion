@@ -979,10 +979,11 @@
         "id": "68a920ab58a2d1848706dfcc",
         "habitId": "65d8aaa830d65106abfcf3b4",
         "checkinStamp": 20250823,
-        "opTime": "2025-08-23T07:24:44.000+0000",
-        "value": 2.0,
+        "checkinTime": "2025-08-23T10:16:32.000+0000",
+        "opTime": "2025-08-23T10:16:32.000+0000",
+        "value": 3.0,
         "goal": 3.0,
-        "status": 0
+        "status": 2
     },
     {
         "id": "67d0046a2d80510f10fd7881",
